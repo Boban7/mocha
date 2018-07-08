@@ -1,0 +1,32 @@
+body{
+	background-color: dodgerBlue;
+}
+
+.board{
+	background-color: #fff;
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 33%;
+	height: 70px;
+	border:1px solid #000;
+	border-radius: 0 0 0 20px;
+}
+
+#mocha{
+	background-color: #eee;
+	border: 2px solid #000;
+	overflow: auto;
+}
+
+h1{text-align: center;}
+h2{text-indent: 30px;}
+
+h1, h2 {margin: 100px;}
+
+#fun{
+	background-color: #aaa;
+	border: 2px solid #000;
+	margin: 100px;
+	padding: 50px;
+}
